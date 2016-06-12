@@ -16,5 +16,7 @@ public class RegisterActivity extends AppCompatActivity{
 
 
         //明儿就要开始敲代码了
+
+        //huazaihaoxiua
     }
 }
