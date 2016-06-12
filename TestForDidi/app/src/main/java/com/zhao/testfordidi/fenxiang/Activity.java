@@ -13,6 +13,8 @@ public class Activity extends AppCompatActivity {
     //hdlajshndkjasdbnfgagvfgalgvha
     //加个老掉啊
     //3636453
+    //达到健康拉萨和咖啡和事不关己
+    //dsadnjkfnhajskhfnjksa.n
     //sakj/hnfsajkfbhas,// FIXME: 16/6/12 
     //45
     //dsakludgasdsuklfvdsajklghldjskhgdsglvdsgdfshl
